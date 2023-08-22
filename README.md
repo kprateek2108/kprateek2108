@@ -1,14 +1,10 @@
-  Hey there! <img src="https://user-images.githubusercontent.com/78784617/230737748-5eab6fe8-5815-43fe-b0c5-ff09a7d0b635.gif" width="40px"> I'm Kumar Prateek<img src="https://user-images.githubusercontent.com/78784617/231394005-c23d6c03-bffc-47df-81e0-12d4a64b9096.png" width="100px"></h1>
+  <h1 align="center"> Hey there! <img src="https://user-images.githubusercontent.com/78784617/230737748-5eab6fe8-5815-43fe-b0c5-ff09a7d0b635.gif" width="40px"> I'm Kumar Prateek<img src="https://user-images.githubusercontent.com/78784617/231394005-c23d6c03-bffc-47df-81e0-12d4a64b9096.png" width="100px"></h1>
 
 
-<p align="center"><img align ="center "src="https://github.com/Dwarfstar-099/Dwarfstar-099/assets/78784617/fbc53e83-85ca-40c0-b000-06041cdb7352"></p>
+
 
 
 <h2> 🙋🏻‍♂️ About Me : </h2>
-
-
-
-
 
 <h4>Fun Fact :</h4> I'm open minded, easy-going and always looking for collaborations to solve real-world problems.
 
@@ -29,14 +25,13 @@
 <h2> 🌐 Connect with me :</h2>
 
 <a href="https://www.linkedin.com/in/"><img src ="https://user-images.githubusercontent.com/78784617/229765486-3364fe55-f45f-4b51-a2bc-b2bc721f8286.svg"
- width="45px" height="45px"></a> &nbsp
+ width="45px" height="45px"></a>
 <a href="https://twitter.com/dwarfstar99"><img src="https://user-images.githubusercontent.com/78784617/229769750-177a71de-d1d1-4d0e-905f-bdd423a48ecd.svg"
-width="40px" height="40px"></a> &nbsp
-&nbsp&nbsp
+width="40px" height="40px"></a>
+
 
 <h2> 🎀 Support my work here :<h2>
 
- width="140"></a></br>
  
 <h2> 💭 Tip of the day : </h2>
 <h3><blockquote><q> Never hesitate to ask and share. Be the first to make initiative no matter what gonna happen.</q></blockquote></h3>

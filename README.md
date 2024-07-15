@@ -6,7 +6,7 @@
 
 <h2> 🙋🏻‍♂️ About Me : </h2>
 
-<h4>Fun Fact :</h4>  Always looking for collaborations to solve real-world problems.
+ Always looking for collaborations to solve real-world problems.
 
 <h2> ⚒️ Languages & Technologies :</h2>
 <span>

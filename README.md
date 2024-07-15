@@ -27,8 +27,7 @@ width="32px" height="32px"></a>
 
 
  
-<h2></h2>
-<h3><blockquote><q></q></blockquote></h3>
+
 
 
 <h2> 📈 GitHub Stats : </h2>
